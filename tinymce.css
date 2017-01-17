@@ -1,0 +1,66 @@
+td div span
+{
+  display: block;
+}
+
+.menu-title
+{
+  border: 4px solid #ffffff;
+  border-radius: 10px;
+  font-family: sans-serif;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.menu-title-hover
+{
+  border: 4px solid #ffff00;
+  border-radius: 10px;
+}
+
+.plate
+{
+  border: 4px solid #ffffff;
+  border-radius: 10px;
+}
+
+.plate-hover
+{
+  border: 4px solid #ffff00;
+  border-radius: 10px;
+}
+
+.plate-title
+{
+  background-color: #ffffff;
+  font-family: sans-serif;
+  font-size: 1.0em;
+  font-weight: bold;
+}
+
+.plate-title-hover
+{
+  background-color: #ffff00;
+}
+
+.plate-description
+{
+  background-color: #ffffff;
+}
+
+.plate-description-hover
+{
+  background-color: #ffff00;
+}
+
+.plate-price
+{
+  background-color: #ffffff;
+  font-family: sans-serif;
+  font-size: 1.0em;
+}
+
+.plate-price-hover
+{
+  background-color: #ffff00;
+}
